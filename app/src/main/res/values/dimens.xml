@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="small_font_size">16sp</dimen>
+    <dimen name="standard_font_size">18sp</dimen>
+
+    <dimen name="margin_size_small">4dp</dimen>
+    <dimen name="standard_margin_size">16dp</dimen>
+    <dimen name="standard_margin_size_x">32dp</dimen>
+    <dimen name="standard_margin_size_2x">64dp</dimen>
+
+
+</resources>

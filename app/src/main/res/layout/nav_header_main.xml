@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="192dp"
+    android:background="?attr/colorPrimaryDark"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    >
+    <ImageView
+        android:id="@+id/nav_header_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/pic4"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@id/nav_header_image"
+        android:layout_alignBottom="@id/nav_header_image"
+        android:layout_margin="@dimen/standard_margin_size"
+        android:text="آیت الله محقق کابلی"
+        android:textColor="@android:color/white"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+</RelativeLayout>

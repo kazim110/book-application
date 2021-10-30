@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/kabuli_site_nav"
+        android:title="بازدید از سایت"/>
+    <item
+        android:id="@+id/setting_nav"
+        android:title="تنظیمات"/>
+    <item
+        android:id="@+id/about_nav"
+        android:title="درباره ما"/>
+</menu>

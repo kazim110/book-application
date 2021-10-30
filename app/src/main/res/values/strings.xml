@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">آیت الله محقق کابلی</string>
+
+    <string name="preface">مقدمه</string>
+    <string name="borns">ولادت</string>
+    <string name="primary_education">تحصیلات مقدماتی</string>
+    <string name="travelling_najaf">عزیمت به نجف</string>
+    <string name="higher_education">تحصیلات عالی</string>
+    <string name="teaching_in_najaf_and_ejtehad">تدریس در نجف و اجتهاد</string>
+    <string name="returning_to_the_country">بازگشت به وطن</string>
+    <string name="staying_in_kabul">اقامت در کابل</string>
+    <string name="travelling_and_holywar">هجرت و اجتهاد</string>
+    <string name="returning_to_kabul">بازگشت به کابل</string>
+    <string name="again_travelling_to_iran">عزیمت مجدد به ایران</string>
+    <string name="marjaeiat">مرجعیت</string>
+
+</resources>
